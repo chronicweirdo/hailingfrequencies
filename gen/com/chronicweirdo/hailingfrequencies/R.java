@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.chronicweirdo.filesystemshortcut;
+package com.chronicweirdo.hailingfrequencies;
 
 public final class R {
     public static final class attr {

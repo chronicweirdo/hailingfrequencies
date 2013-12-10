@@ -1,4 +1,4 @@
-package com.chronicweirdo.filesystemshortcut;
+package com.chronicweirdo.hailingfrequencies;
 
 import java.util.Random;
 
